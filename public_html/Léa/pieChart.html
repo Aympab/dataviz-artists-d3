@@ -1,0 +1,82 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Projet Visualisation Groupe 6</title>
+        <style type="text/css">
+            #chart text {
+                fill: black;
+                font: 10px sans-serif;
+                text-anchor: end;
+            }
+
+            .axis text {
+                font: 10px sans-serif;
+            }
+
+            .axis path, .axis line {
+                fill: none;
+                /*stroke: #fff;*/
+                shape-rendering: crispEdges;
+            }
+
+            body {
+                /*background: #1a1a1a;*/
+                color: #eaeaea;
+                padding: 10px;
+            }
+
+            path {
+                stroke: steelblue;
+                stroke-width: 2;
+                fill: none;
+            }
+             ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            li {
+                float: left;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+            li a:hover {
+                background-color: #111;
+            }
+        </style>
+    </head>
+    <body>
+         <ul>
+            <li><a class="active" href="../Home.html">Home</a></li>
+        </ul>
+        <header>
+            <h1 style="color:black" ><center>Répartition des fans par genre</center></h1>
+            <h3><center><div id="soustitre" style="color:black"></center></div></h3>
+            
+        </header>
+        <div id="chart" style="height:600px;width:600px">
+        <div class="innerCont" style="overflow: auto; top:100px; left: 400px; height:91% ; width:100% ;position: relative;overflow: hidden;" />
+        </div>
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" charset="utf-8"></script>
+        <script src="https://d3js.org/d3.v2.min.js"></script>
+        <script src="scripts/pieChart.js"></script>
+    </body>
+
+</html>
+
+
+
+
+

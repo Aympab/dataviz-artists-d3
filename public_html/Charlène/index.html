@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>HeatMap Artist</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="https://mbostock.github.com/d3/d3.js"></script>
+        <style>
+
+            .legendText {
+              font-size:50px;
+              font-family:"Arial, sans-serif";
+              font-weight: bold;
+            }
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            li {
+                float: left;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+            li a:hover {
+                background-color: #111;
+            }
+
+        </style>
+    </head>
+    <body>
+          <ul>
+            <li><a class="active" href="../Home.html">Home</a></li>
+        </ul>
+        <div style="text-align: center;"><h2>Répartition des artistes en fonction de leur année de lancement et de leur genre musical</h2></div>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
+        <h3><label for="type-select">Filtrer par type d'artiste:  &nbsp;</label></h3>
+        <select name="types" id="type-select" onchange="onOptionSelected()">
+            <option value="All">--Aucun--</option>
+            <option value="Person">Artist Solo</option>
+            <option value="Group">Groupe</option>
+        </select>
+        </div>
+        <div style="text-align: center;" id="my_map"></div>
+        <script src="scripts/heatMap.js"></script>
+    </body>
+</html>

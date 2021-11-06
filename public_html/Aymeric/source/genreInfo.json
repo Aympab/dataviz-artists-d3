@@ -1,0 +1,1658 @@
+[
+    {
+        "loc": "Amérique du nord",
+        "genre": "pop"
+    },
+    {
+        "loc": "Asie",
+        "genre": "pop"
+    },
+    {
+        "loc": "Afrique",
+        "genre": "pop"
+    },
+    {
+        "loc": "Amérique du sud",
+        "genre": "rock"
+    },
+    {
+        "loc": "Europe",
+        "genre": "rock"
+    },
+    {
+        "loc": "Océanie",
+        "genre": "rock"
+    },
+    {
+        "loc": "Osaka",
+        "genre": "pop"
+    },
+    {
+        "loc": "Kanto",
+        "genre": "pop"
+    },
+    {
+        "loc": "Tokyo",
+        "genre": "pop"
+    },
+    {
+        "loc": "Gunma",
+        "genre": "pop"
+    },
+    {
+        "loc": "Hyogo",
+        "genre": "pop"
+    },
+    {
+        "loc": "Niigata",
+        "genre": "pop"
+    },
+    {
+        "loc": "Hokkaido",
+        "genre": "pop"
+    },
+    {
+        "loc": "Fukuoka",
+        "genre": "pop"
+    },
+    {
+        "loc": "Okinawa",
+        "genre": "pop"
+    },
+    {
+        "loc": "Kanagawa",
+        "genre": "pop"
+    },
+    {
+        "loc": "Saitama",
+        "genre": "pop"
+    },
+    {
+        "loc": "Kansai",
+        "genre": "pop"
+    },
+    {
+        "loc": "Kyoto",
+        "genre": "pop"
+    },
+    {
+        "loc": "Chiba",
+        "genre": "pop"
+    },
+    {
+        "loc": "Japan",
+        "genre": "pop"
+    },
+    {
+        "loc": "South Korea",
+        "genre": "pop"
+    },
+    {
+        "loc": "India",
+        "genre": "pop"
+    },
+    {
+        "loc": "Delhi",
+        "genre": "rock"
+    },
+    {
+        "loc": "India",
+        "genre": "pop"
+    },
+    {
+        "loc": "Pakistan",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Pakistan",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Quezon City",
+        "genre": "pop"
+    },
+    {
+        "loc": "Cebu City",
+        "genre": "pop"
+    },
+    {
+        "loc": "Philippines",
+        "genre": "pop"
+    },
+    {
+        "loc": "Singapore",
+        "genre": "pop"
+    },
+    {
+        "loc": "Moscow",
+        "genre": "metal"
+    },
+    {
+        "loc": "Russia",
+        "genre": "metal"
+    },
+    {
+        "loc": "Obninsk",
+        "genre": "metal"
+    },
+    {
+        "loc": "Vladivostok",
+        "genre": "metal"
+    },
+    {
+        "loc": "Obninsk‎",
+        "genre": "metal"
+    },
+    {
+        "loc": "Novosibirsk",
+        "genre": "metal"
+    },
+    {
+        "loc": "Russia",
+        "genre": "metal"
+    },
+    {
+        "loc": "Jakarta",
+        "genre": "pop"
+    },
+    {
+        "loc": "Indonesia",
+        "genre": "pop"
+    },
+    {
+        "loc": "Indonesia",
+        "genre": "pop"
+    },
+    {
+        "loc": "Tehran",
+        "genre": "folk"
+    },
+    {
+        "loc": "Iran",
+        "genre": "folk"
+    },
+    {
+        "loc": "Iran",
+        "genre": "folk"
+    },
+    {
+        "loc": "Turkey",
+        "genre": "metal"
+    },
+    {
+        "loc": "Turkey",
+        "genre": "metal"
+    },
+    {
+        "loc": "Tel Aviv",
+        "genre": "pop"
+    },
+    {
+        "loc": "Jerusalem",
+        "genre": "pop"
+    },
+    {
+        "loc": "Israel",
+        "genre": "pop"
+    },
+    {
+        "loc": "Haifa",
+        "genre": "pop"
+    },
+    {
+        "loc": "Israel",
+        "genre": "pop"
+    },
+    {
+        "loc": "Jordan",
+        "genre": "pop"
+    },
+    {
+        "loc": "Dhaka",
+        "genre": "rock"
+    },
+    {
+        "loc": "Naogaon",
+        "genre": "rock"
+    },
+    {
+        "loc": "Bangladesh",
+        "genre": "rock"
+    },
+    {
+        "loc": "Malaysia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Malaysia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Vietnam",
+        "genre": "rock"
+    },
+    {
+        "loc": "Lebanon",
+        "genre": "rock"
+    },
+    {
+        "loc": "Cyprus",
+        "genre": "pop"
+    },
+    {
+        "loc": "Georgia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Thailand",
+        "genre": "pop"
+    },
+    {
+        "loc": "Armenia",
+        "genre": "blues"
+    },
+    {
+        "loc": "Syria",
+        "genre": "electro"
+    },
+    {
+        "loc": "Taiwan",
+        "genre": "pop"
+    },
+    {
+        "loc": "Hong Kong",
+        "genre": "pop"
+    },
+    {
+        "loc": "Agdam",
+        "genre": "pop"
+    },
+    {
+        "loc": "Baku",
+        "genre": "pop"
+    },
+    {
+        "loc": "Azerbaijan",
+        "genre": "pop"
+    },
+    {
+        "loc": "China",
+        "genre": "blues"
+    },
+    {
+        "loc": "Skåne",
+        "genre": "metal"
+    },
+    {
+        "loc": "Stockholm",
+        "genre": "metal"
+    },
+    {
+        "loc": "Gotland",
+        "genre": "metal"
+    },
+    {
+        "loc": "Hälsingland",
+        "genre": "metal"
+    },
+    {
+        "loc": "Sweden",
+        "genre": "metal"
+    },
+    {
+        "loc": "Berlin",
+        "genre": "rock"
+    },
+    {
+        "loc": "North Rhine-Westphalia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hesse",
+        "genre": "rock"
+    },
+    {
+        "loc": "Baden-Württemberg",
+        "genre": "rock"
+    },
+    {
+        "loc": "Saxony",
+        "genre": "rock"
+    },
+    {
+        "loc": "Germany",
+        "genre": "rock"
+    },
+    {
+        "loc": "Thuringia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hamburg",
+        "genre": "rock"
+    },
+    {
+        "loc": "Schleswig-Holstein",
+        "genre": "rock"
+    },
+    {
+        "loc": "Brandenburg",
+        "genre": "rock"
+    },
+    {
+        "loc": "Mecklenburg-Vorpommern",
+        "genre": "rock"
+    },
+    {
+        "loc": "Rhineland-Palatinate",
+        "genre": "rock"
+    },
+    {
+        "loc": "Saarland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Bremen",
+        "genre": "rock"
+    },
+    {
+        "loc": "Germany",
+        "genre": "rock"
+    },
+    {
+        "loc": "Oxfordshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "London",
+        "genre": "rock"
+    },
+    {
+        "loc": "England",
+        "genre": "rock"
+    },
+    {
+        "loc": "Lancashire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Essex",
+        "genre": "rock"
+    },
+    {
+        "loc": "Kent",
+        "genre": "rock"
+    },
+    {
+        "loc": "Isle of Wight",
+        "genre": "rock"
+    },
+    {
+        "loc": "Herefordshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Greater Manchester",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hertfordshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Merseyside",
+        "genre": "rock"
+    },
+    {
+        "loc": "East Sussex",
+        "genre": "rock"
+    },
+    {
+        "loc": "North Yorkshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hampshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Norfolk",
+        "genre": "rock"
+    },
+    {
+        "loc": "Surrey",
+        "genre": "rock"
+    },
+    {
+        "loc": "Dorset",
+        "genre": "rock"
+    },
+    {
+        "loc": "Cornwall",
+        "genre": "rock"
+    },
+    {
+        "loc": "Staffordshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Worcestershire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Bristol",
+        "genre": "rock"
+    },
+    {
+        "loc": "Wiltshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Cheshire",
+        "genre": "rock"
+    },
+    {
+        "loc": "Cumbria",
+        "genre": "rock"
+    },
+    {
+        "loc": "Northumberland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Durham",
+        "genre": "rock"
+    },
+    {
+        "loc": "England",
+        "genre": "rock"
+    },
+    {
+        "loc": "Østfold",
+        "genre": "metal"
+    },
+    {
+        "loc": "Hedmark",
+        "genre": "metal"
+    },
+    {
+        "loc": "Norway",
+        "genre": "metal"
+    },
+    {
+        "loc": "Uusimaa",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Finland",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Satakunta",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Southern Ostrobothnia",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Finland",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Île-de-France",
+        "genre": "pop"
+    },
+    {
+        "loc": "Languedoc-Roussillon",
+        "genre": "pop"
+    },
+    {
+        "loc": "Nord-Pas-de-Calais",
+        "genre": "pop"
+    },
+    {
+        "loc": "Lower Normandy",
+        "genre": "pop"
+    },
+    {
+        "loc": "Guadeloupe",
+        "genre": "folk"
+    },
+    {
+        "loc": "Saint Martin",
+        "genre": "pop"
+    },
+    {
+        "loc": "France",
+        "genre": "pop"
+    },
+    {
+        "loc": "Northern Ireland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Groningen",
+        "genre": "pop"
+    },
+    {
+        "loc": "Limburg",
+        "genre": "pop"
+    },
+    {
+        "loc": "Utrecht",
+        "genre": "pop"
+    },
+    {
+        "loc": "Overijssel",
+        "genre": "pop"
+    },
+    {
+        "loc": "The Netherlands",
+        "genre": "pop"
+    },
+    {
+        "loc": "Salzburg",
+        "genre": "pop"
+    },
+    {
+        "loc": "Vienna",
+        "genre": "rock"
+    },
+    {
+        "loc": "Styria",
+        "genre": "pop"
+    },
+    {
+        "loc": "Austria",
+        "genre": "pop"
+    },
+    {
+        "loc": "East Flanders",
+        "genre": "pop"
+    },
+    {
+        "loc": "Belgium",
+        "genre": "pop"
+    },
+    {
+        "loc": "Antwerp",
+        "genre": "pop"
+    },
+    {
+        "loc": "Limburg",
+        "genre": "pop"
+    },
+    {
+        "loc": "Brussels",
+        "genre": "pop"
+    },
+    {
+        "loc": "Liège",
+        "genre": "pop"
+    },
+    {
+        "loc": "Belgium",
+        "genre": "pop"
+    },
+    {
+        "loc": "Lazio",
+        "genre": "pop"
+    },
+    {
+        "loc": "Italy",
+        "genre": "pop"
+    },
+    {
+        "loc": "Lombardy",
+        "genre": "pop"
+    },
+    {
+        "loc": "Tuscany",
+        "genre": "pop"
+    },
+    {
+        "loc": "Sicily",
+        "genre": "pop"
+    },
+    {
+        "loc": "Umbria",
+        "genre": "pop"
+    },
+    {
+        "loc": "Italy",
+        "genre": "pop"
+    },
+    {
+        "loc": "Denmark",
+        "genre": "pop"
+    },
+    {
+        "loc": "Denmark",
+        "genre": "pop"
+    },
+    {
+        "loc": "Madrid",
+        "genre": "rock"
+    },
+    {
+        "loc": "Spain",
+        "genre": "rock"
+    },
+    {
+        "loc": "Catalonia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Galicia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Valencia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Castile and León",
+        "genre": "rock"
+    },
+    {
+        "loc": "Alicante",
+        "genre": "rock"
+    },
+    {
+        "loc": "Murcia",
+        "genre": "rock"
+    },
+    {
+        "loc": "La Rioja",
+        "genre": "rock"
+    },
+    {
+        "loc": "Spain",
+        "genre": "rock"
+    },
+    {
+        "loc": "Glasgow",
+        "genre": "rock"
+    },
+    {
+        "loc": "Scotland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Edinburgh",
+        "genre": "rock"
+    },
+    {
+        "loc": "Aberdeen",
+        "genre": "rock"
+    },
+    {
+        "loc": "Fife",
+        "genre": "rock"
+    },
+    {
+        "loc": "Falkirk",
+        "genre": "rock"
+    },
+    {
+        "loc": "Highland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Argyll and Bute",
+        "genre": "rock"
+    },
+    {
+        "loc": "Argyll and Bute‎",
+        "genre": "rock"
+    },
+    {
+        "loc": "Dundee",
+        "genre": "rock"
+    },
+    {
+        "loc": "Scotland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Poland",
+        "genre": "metal"
+    },
+    {
+        "loc": "Łódź Voivodeship",
+        "genre": "metal"
+    },
+    {
+        "loc": "Podkarpackie Voivodeship",
+        "genre": "metal"
+    },
+    {
+        "loc": "Poland",
+        "genre": "metal"
+    },
+    {
+        "loc": "Greece",
+        "genre": "metal"
+    },
+    {
+        "loc": "Alexandroupoli",
+        "genre": "metal"
+    },
+    {
+        "loc": "Greece",
+        "genre": "metal"
+    },
+    {
+        "loc": "Romania",
+        "genre": "pop"
+    },
+    {
+        "loc": "Croatia",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Brno",
+        "genre": "metal"
+    },
+    {
+        "loc": "Czech Republic",
+        "genre": "metal"
+    },
+    {
+        "loc": "Prague",
+        "genre": "metal"
+    },
+    {
+        "loc": "Czech Republic",
+        "genre": "metal"
+    },
+    {
+        "loc": "Switzerland",
+        "genre": "rock"
+    },
+    {
+        "loc": "St. Gallen",
+        "genre": "rock"
+    },
+    {
+        "loc": "Berne",
+        "genre": "rock"
+    },
+    {
+        "loc": "Zurich",
+        "genre": "rock"
+    },
+    {
+        "loc": "Geneva",
+        "genre": "rock"
+    },
+    {
+        "loc": "Switzerland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hungary",
+        "genre": "rock"
+    },
+    {
+        "loc": "Budapest",
+        "genre": "rock"
+    },
+    {
+        "loc": "Veszprém",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hungary",
+        "genre": "rock"
+    },
+    {
+        "loc": "Bulgaria",
+        "genre": "folk"
+    },
+    {
+        "loc": "United Kingdom",
+        "genre": "rock"
+    },
+    {
+        "loc": "Lithuania",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Lisbon",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Porto",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Setúbal",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Portugal",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Aveiro",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Coimbra",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Bragança",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Leiria",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Portugal",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Iceland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Wales",
+        "genre": "rock"
+    },
+    {
+        "loc": "Wales",
+        "genre": "rock"
+    },
+    {
+        "loc": "County Donegal",
+        "genre": "rock"
+    },
+    {
+        "loc": "Ireland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Dublin",
+        "genre": "rock"
+    },
+    {
+        "loc": "Leinster",
+        "genre": "rock"
+    },
+    {
+        "loc": "Ireland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Andorra",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Macedonia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Bosnia and Herzegovina",
+        "genre": "pop"
+    },
+    {
+        "loc": "Bosnia and Herzegovina",
+        "genre": "pop"
+    },
+    {
+        "loc": "Belarus",
+        "genre": "metal"
+    },
+    {
+        "loc": "Kragujevac",
+        "genre": "metal"
+    },
+    {
+        "loc": "Serbia",
+        "genre": "metal"
+    },
+    {
+        "loc": "Slovenia",
+        "genre": "indus"
+    },
+    {
+        "loc": "Montenegro",
+        "genre": "pop"
+    },
+    {
+        "loc": "Latvia",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Estonia",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Liechtenstein",
+        "genre": "metal"
+    },
+    {
+        "loc": "Jersey",
+        "genre": "electro"
+    },
+    {
+        "loc": "Bratislava",
+        "genre": "folk"
+    },
+    {
+        "loc": "Slovakia",
+        "genre": "folk"
+    },
+    {
+        "loc": "Košice",
+        "genre": "folk"
+    },
+    {
+        "loc": "Slovakia",
+        "genre": "folk"
+    },
+    {
+        "loc": "Faroe Islands",
+        "genre": "metal"
+    },
+    {
+        "loc": "Zhytomyr",
+        "genre": "metal"
+    },
+    {
+        "loc": "Ukraine",
+        "genre": "metal"
+    },
+    {
+        "loc": "Kharkiv",
+        "genre": "metal"
+    },
+    {
+        "loc": "Kiev",
+        "genre": "metal"
+    },
+    {
+        "loc": "Odessa",
+        "genre": "metal"
+    },
+    {
+        "loc": "Ukraine",
+        "genre": "metal"
+    },
+    {
+        "loc": "Luxembourg",
+        "genre": "metal"
+    },
+    {
+        "loc": "Monaco",
+        "genre": "folk"
+    },
+    {
+        "loc": "Isle of Man",
+        "genre": "pop"
+    },
+    {
+        "loc": "Moldova",
+        "genre": "pop"
+    },
+    {
+        "loc": "Albania",
+        "genre": "blues"
+    },
+    {
+        "loc": "Egypt",
+        "genre": "pop"
+    },
+    {
+        "loc": "Côte d'Ivoire",
+        "genre": "reg"
+    },
+    {
+        "loc": "Morocco",
+        "genre": "metal"
+    },
+    {
+        "loc": "South Africa",
+        "genre": "rock"
+    },
+    {
+        "loc": "South Africa",
+        "genre": "rock"
+    },
+    {
+        "loc": "Tanzania",
+        "genre": "electro"
+    },
+    {
+        "loc": "Cape Verde",
+        "genre": "folk"
+    },
+    {
+        "loc": "Uganda",
+        "genre": "electro"
+    },
+    {
+        "loc": "Zambia",
+        "genre": "pop"
+    },
+    {
+        "loc": "Tunisia",
+        "genre": "pop"
+    },
+    {
+        "loc": "Nigeria",
+        "genre": "jazz"
+    },
+    {
+        "loc": "Libya",
+        "genre": "electro"
+    },
+    {
+        "loc": "Cameroon",
+        "genre": "electro"
+    },
+    {
+        "loc": "Malawi",
+        "genre": "jazz"
+    },
+    {
+        "loc": "Senegal",
+        "genre": "blues"
+    },
+    {
+        "loc": "Guinea",
+        "genre": "pop"
+    },
+    {
+        "loc": "Mali",
+        "genre": "pop"
+    },
+    {
+        "loc": "Kenya",
+        "genre": "pop"
+    },
+    {
+        "loc": "Liberia",
+        "genre": "reg"
+    },
+    {
+        "loc": "Democratic Republic of the Congo",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "New South Wales",
+        "genre": "rock"
+    },
+    {
+        "loc": "Queensland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Victoria",
+        "genre": "rock"
+    },
+    {
+        "loc": "Australia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Australia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Auckland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Wellington",
+        "genre": "rock"
+    },
+    {
+        "loc": "Canterbury",
+        "genre": "rock"
+    },
+    {
+        "loc": "Dunedin",
+        "genre": "rock"
+    },
+    {
+        "loc": "Christchurch",
+        "genre": "rock"
+    },
+    {
+        "loc": "Masterton",
+        "genre": "rock"
+    },
+    {
+        "loc": "South Auckland",
+        "genre": "rock"
+    },
+    {
+        "loc": "New Zealand",
+        "genre": "rock"
+    },
+    {
+        "loc": "California",
+        "genre": "rock"
+    },
+    {
+        "loc": "Tennessee",
+        "genre": "rock"
+    },
+    {
+        "loc": "New York",
+        "genre": "rock"
+    },
+    {
+        "loc": "Washington",
+        "genre": "rock"
+    },
+    {
+        "loc": "Connecticut",
+        "genre": "rock"
+    },
+    {
+        "loc": "New Jersey",
+        "genre": "rock"
+    },
+    {
+        "loc": "Oregon",
+        "genre": "rock"
+    },
+    {
+        "loc": "Massachusetts",
+        "genre": "rock"
+    },
+    {
+        "loc": "United States",
+        "genre": "rock"
+    },
+    {
+        "loc": "Kentucky",
+        "genre": "rock"
+    },
+    {
+        "loc": "Texas",
+        "genre": "rock"
+    },
+    {
+        "loc": "Florida",
+        "genre": "rock"
+    },
+    {
+        "loc": "Michigan",
+        "genre": "rock"
+    },
+    {
+        "loc": "Georgia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Louisiana",
+        "genre": "rock"
+    },
+    {
+        "loc": "Pennsylvania",
+        "genre": "rock"
+    },
+    {
+        "loc": "North Carolina",
+        "genre": "rock"
+    },
+    {
+        "loc": "Mississippi",
+        "genre": "rock"
+    },
+    {
+        "loc": "Kansas",
+        "genre": "rock"
+    },
+    {
+        "loc": "Minnesota",
+        "genre": "rock"
+    },
+    {
+        "loc": "Illinois",
+        "genre": "rock"
+    },
+    {
+        "loc": "Colorado",
+        "genre": "rock"
+    },
+    {
+        "loc": "Wisconsin",
+        "genre": "rock"
+    },
+    {
+        "loc": "Arizona",
+        "genre": "rock"
+    },
+    {
+        "loc": "Virginia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Indiana",
+        "genre": "rock"
+    },
+    {
+        "loc": "Ohio",
+        "genre": "rock"
+    },
+    {
+        "loc": "Vermont",
+        "genre": "rock"
+    },
+    {
+        "loc": "Arkansas",
+        "genre": "rock"
+    },
+    {
+        "loc": "Iowa",
+        "genre": "rock"
+    },
+    {
+        "loc": "Alabama",
+        "genre": "rock"
+    },
+    {
+        "loc": "Maine",
+        "genre": "rock"
+    },
+    {
+        "loc": "Missouri",
+        "genre": "rock"
+    },
+    {
+        "loc": "Maryland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Hawaii",
+        "genre": "rock"
+    },
+    {
+        "loc": "Oklahoma",
+        "genre": "rock"
+    },
+    {
+        "loc": "Nebraska",
+        "genre": "rock"
+    },
+    {
+        "loc": "South Carolina",
+        "genre": "rock"
+    },
+    {
+        "loc": "West Virginia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Iceland",
+        "genre": "rock"
+    },
+    {
+        "loc": "Montana",
+        "genre": "rock"
+    },
+    {
+        "loc": "Delaware",
+        "genre": "rock"
+    },
+    {
+        "loc": "South Dakota",
+        "genre": "rock"
+    },
+    {
+        "loc": "Alaska",
+        "genre": "rock"
+    },
+    {
+        "loc": "United States",
+        "genre": "rock"
+    },
+    {
+        "loc": "British Columbia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Ontario",
+        "genre": "rock"
+    },
+    {
+        "loc": "Quebec",
+        "genre": "rock"
+    },
+    {
+        "loc": "Canada",
+        "genre": "rock"
+    },
+    {
+        "loc": "Nova Scotia",
+        "genre": "rock"
+    },
+    {
+        "loc": "Alberta",
+        "genre": "rock"
+    },
+    {
+        "loc": "Newfoundland and Labrador",
+        "genre": "rock"
+    },
+    {
+        "loc": "New Brunswick",
+        "genre": "rock"
+    },
+    {
+        "loc": "Canada",
+        "genre": "rock"
+    },
+    {
+        "loc": "Nassau",
+        "genre": "pop"
+    },
+    {
+        "loc": "Cat Island",
+        "genre": "pop"
+    },
+    {
+        "loc": "The Bahamas",
+        "genre": "pop"
+    },
+    {
+        "loc": "Veracruz",
+        "genre": "pop"
+    },
+    {
+        "loc": "Mexico City",
+        "genre": "pop"
+    },
+    {
+        "loc": "Querétaro",
+        "genre": "pop"
+    },
+    {
+        "loc": "Chihuahua",
+        "genre": "pop"
+    },
+    {
+        "loc": "Sinaloa",
+        "genre": "pop"
+    },
+    {
+        "loc": "Zacatecas",
+        "genre": "pop"
+    },
+    {
+        "loc": "Mexico",
+        "genre": "pop"
+    },
+    {
+        "loc": "Puerto Rico",
+        "genre": "reg"
+    },
+    {
+        "loc": "Haiti",
+        "genre": "electro"
+    },
+    {
+        "loc": "La Habana",
+        "genre": "pop"
+    },
+    {
+        "loc": "Havana",
+        "genre": "pop"
+    },
+    {
+        "loc": "Cuba",
+        "genre": "pop"
+    },
+    {
+        "loc": "Westmoreland",
+        "genre": "reg"
+    },
+    {
+        "loc": "Clarendon",
+        "genre": "reg"
+    },
+    {
+        "loc": "Montego Bay",
+        "genre": "reg"
+    },
+    {
+        "loc": "Mandeville",
+        "genre": "reg"
+    },
+    {
+        "loc": "Saint James",
+        "genre": "reg"
+    },
+    {
+        "loc": "Kendal",
+        "genre": "reg"
+    },
+    {
+        "loc": "St. Elizabeth",
+        "genre": "reg"
+    },
+    {
+        "loc": "Jamaica",
+        "genre": "reg"
+    },
+    {
+        "loc": "Guatemala",
+        "genre": "metal"
+    },
+    {
+        "loc": "Dominican Republic",
+        "genre": "pop"
+    },
+    {
+        "loc": "Montserrat",
+        "genre": "blues"
+    },
+    {
+        "loc": "Trinidad and Tobago",
+        "genre": "pop"
+    },
+    {
+        "loc": "Cumuto",
+        "genre": "pop"
+    },
+    {
+        "loc": "Trinidad and Tobago",
+        "genre": "pop"
+    },
+    {
+        "loc": "Panama",
+        "genre": "jazz"
+    },
+    {
+        "loc": "Netherlands Antilles",
+        "genre": "electro"
+    },
+    {
+        "loc": "Saint Michael",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Barbados",
+        "genre": "hiphop"
+    },
+    {
+        "loc": "Saint Lucia",
+        "genre": "reg"
+    },
+    {
+        "loc": "Guadeloupe",
+        "genre": "folk"
+    },
+    {
+        "loc": "Bermuda",
+        "genre": "reg"
+    },
+    {
+        "loc": "Martinique",
+        "genre": "reg"
+    },
+    {
+        "loc": "Saint Vincent and the Grenadines",
+        "genre": "electro"
+    },
+    {
+        "loc": "Costa Rica",
+        "genre": "metal"
+    },
+    {
+        "loc": "Rio de Janeiro",
+        "genre": "popRock"
+    },
+    {
+        "loc": "São Paulo",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Brazil",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Rio Grande do Sul",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Pernambuco",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Minas Gerais",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Goiás",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Bahia",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Sergipe",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Santa Catarina",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Brazil",
+        "genre": "popRock"
+    },
+    {
+        "loc": "Santiago",
+        "genre": "rock"
+    },
+    {
+        "loc": "Chile",
+        "genre": "rock"
+    },
+    {
+        "loc": "San Carlos",
+        "genre": "rock"
+    },
+    {
+        "loc": "Chile",
+        "genre": "rock"
+    },
+    {
+        "loc": "Venezuela",
+        "genre": "metal"
+    },
+    {
+        "loc": "Buenos Aires",
+        "genre": "rock"
+    },
+    {
+        "loc": "Buenos Aires Province",
+        "genre": "rock"
+    },
+    {
+        "loc": "Córdoba",
+        "genre": "rock"
+    },
+    {
+        "loc": "Santa Fe",
+        "genre": "rock"
+    },
+    {
+        "loc": "Salta",
+        "genre": "rock"
+    },
+    {
+        "loc": "Argentina",
+        "genre": "rock"
+    },
+    {
+        "loc": "Peru",
+        "genre": "rock"
+    },
+    {
+        "loc": "Colombia",
+        "genre": "metal"
+    },
+    {
+        "loc": "Córdoba",
+        "genre": "rock"
+    },
+    {
+        "loc": "Colombia",
+        "genre": "metal"
+    },
+    {
+        "loc": "Horqueta",
+        "genre": "rock"
+    },
+    {
+        "loc": "Asunción",
+        "genre": "rock"
+    },
+    {
+        "loc": "Paraguay",
+        "genre": "rock"
+    },
+    {
+        "loc": "Uruguay",
+        "genre": "rock"
+    },
+    {
+        "loc": "Paramaribo",
+        "genre": "pop"
+    },
+    {
+        "loc": "Suriname",
+        "genre": "pop"
+    },
+    {
+        "loc": "Quito",
+        "genre": "rock"
+    },
+    {
+        "loc": "Ecuador",
+        "genre": "rock"
+    },
+    {
+        "loc": "Guyana",
+        "genre": "electro"
+    },
+    {
+        "loc": "Bolivia",
+        "genre": "rock"
+    },
+    {
+        "loc": "The Netherlands‎",
+        "genre": "rock"
+    }
+]

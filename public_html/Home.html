@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Projet Visualisation Groupe 6</title>
+        <style>
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            li {
+                float: left;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+            li a:hover {
+                background-color: #111;
+            }
+            div.gallery {
+                margin: 5px;
+                border: 1px solid #ccc;
+                float: left;
+                width: 180px;
+
+            }
+
+            div.gallery:hover {
+                border: 1px solid #777;
+            }
+
+            div.gallery img {
+                width: 100%;
+                height: auto;
+
+            }
+
+            div.desc {
+                padding: 20px;
+                text-align: center;
+                height:90px;
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <ul>
+            <li style='font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;'><a class="active" href="Home.html">Home</a></li>
+        </ul>
+
+        <div class="gallery">
+            <a href="Estelle/index.html">
+                <img src="images/point_map.svg" width="600" height="400">
+            </a>
+            <div class="desc">Répartition des artistes dans le monde</div>
+        </div>
+
+        <div class="gallery">
+            <a href="Claude/index.html">
+                <img src="images/population_pyramid.svg" width="600" height="400">
+            </a>
+            <div class="desc">Comparaison du nombre d'écoute des artistes par type</div>
+        </div>
+
+        <div class="gallery">
+            <a href="Léa/pieChart.html">
+                <img src="images/pie_chart.svg" width="600" height="400">
+            </a>
+            <div class="desc">Répartition des fans par genre</div>
+        </div>
+
+        <div class="gallery">
+            <a href="Charlène/index.html">
+                <img src="images/heat_map.svg" width="600" height="400">
+            </a>
+            <div class="desc">Répartition des artistes en fonction de leur année de lancement et de leur genre musical</div>
+        </div>
+        <div class="gallery">
+            <a  href="Aymeric/index.html">
+                <img src="images/treemap.svg" width="600" height="400">
+            </a>
+            <div class="desc">Proportion de carrières débutés par localisation avec les genres
+                musicaux</div>
+        </div>
+
+
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Population Pyramid</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="CSS/css.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <ul>
+            <li><a class="active" href="../Home.html">Home</a></li>
+        </ul>
+        <div>
+            <h3>Comparaison de la popularité des artistes solo et en groupe <span id="titreStr"></span> </h3>
+            <div>
+                <label for="annee">Comparer depuis : </label>
+                <input id="annee" type="number" min="1900" max="2022" step="1" placeholder="2000" />
+                <button id="addAnne" type="button">Comparer</button>
+            </div>
+            <div>
+                <label for="racine-txt">Ajouter un genre :</label>
+                <input type="text" id="racine-txt" placeholder="freestyle, bluegrass,folk ..." value="">
+                <button id="addGenre" type="button">Ajouter un genre</button>
+                 <p> Exemple: Disco, Chanson,Salsa, Latin Pop, Lo-fi, Dancehall, Comedy, Ballad ... </p>
+            </div>
+
+        </div> 
+        <div id="chart"></div>
+        <div>
+            <label for="scales">Supprimer la date</label>
+            <input type="checkbox" id="clearDate">
+
+             <label for="scales">Supprimer les genres ajoutés</label>
+            <input type="checkbox" id="clearGenre">
+           
+        </div>
+        <!---scripts-->
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        <script src="scripts/populationPyramid.js"></script>
+    </body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+    <head>
+        <title>Zoomable treemap</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+        <style>
+            #chart {
+                background: #fff;
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            }
+
+            #leg {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            }
+            #titres {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            }
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            li {
+                float: left;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+            li a:hover {
+                background-color: #111;
+            }
+            #tooltip {
+
+                position: absolute;
+                width:auto;
+                height: auto;
+                padding: 3px;
+
+                background-color:whitesmoke;
+                -webkit-border-radius: 0.5px;
+                -moz-border-radius: 0.5px;
+                border-radius: 0.5px;
+                -webkit-box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+                -moz-box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+                box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+                pointer-events: none;
+            }
+
+            #tooltip.hidden {
+                display: none;
+
+            }
+
+            #tooltip p {
+                margin: 0;
+                font-family: sans-serif;
+                font-size: 15px;
+                line-height: 18px;
+
+            }
+
+
+        </style>
+        <ul>
+            <li><a class="active" href="../Home.html">Home</a></li>
+        </ul>
+        <div style="text-align: center" id="titres">
+            <strong >Proportion de carrières débutés par localisation avec les genres
+                musicaux</strong>
+            <p>Légende des genres : </p>
+        </div>
+        <div id="leg" height=100> <svg>
+
+            </svg></div>
+        <div id="chart">
+            <svg>
+            <g></g>
+            </svg>
+        </div>
+        <div id="tooltip" class="hidden">
+            <p><strong id="heading"></strong></p>
+            <p><span id="percentage"></span></p>
+            <p><span id="value"></span></p>
+        </div>
+        <script src="scripts/process.js"></script>
+        <script src="https://d3js.org/d3.v6.js"></script>
+        <script src="scripts/treemap.js" type="module"></script>
+        <!-- <script src="scripts/amont.js" ></script> -->
+        <a id="demo"></a>
+    </body>
+
+</html>
